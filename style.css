@@ -1,0 +1,20 @@
+body{
+    background-color: #060606;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    position: relative;
+}
+div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bucketImage{
+    width: 100px;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
